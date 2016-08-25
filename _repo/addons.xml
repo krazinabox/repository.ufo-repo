@@ -14,7 +14,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.titan" name="[COLOR blue]T[/COLOR]itan" version="2.1.0" provider-name="Titan">
+<addon id="plugin.video.titanXXX" name="[COLOR blue]T[/COLOR]ITAN [COLOR red]XXX[/COLOR] " version="1.0.0" provider-name="marifi">
 	<requires>
 		<import addon="script.module.simplejson" version="3.3.0"/>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -29,7 +29,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 			<summary lang="en"></summary>
-			<description lang="en">Watch from a huge selection of Movies Tv Shows and Collections... Credits to Lambda for some resolvers used in this addon</description>
+			<description lang="en">Watch from a huge selection of [COLOR red]XXX[/COLOR] Collections Credits to Lambda for some resolvers used in this addon
+			credits also goes to schisM for the code used in this addon</description>
 			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on</disclaimer>
 
 			<platform>all</platform>
